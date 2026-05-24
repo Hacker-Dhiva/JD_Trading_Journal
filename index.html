@@ -727,5 +727,10 @@
     if(state.accounts.length === 0) { showScreen('setup'); }
     else { showScreen('dashboard'); refreshUI(); }
 </script>
+<script>
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("service-worker.js");
+}
+</script>
 </body>
 </html>
