@@ -1,0 +1,1 @@
+# JD_Trading_Journal
