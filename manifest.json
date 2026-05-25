@@ -1,7 +1,7 @@
 {
   "name": "JD Trading Journal",
   "short_name": "JD Journal",
-  "start_url": "/JD-Trading-Journal/",
+  "start_url": "/JD_Trading_Journal/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
